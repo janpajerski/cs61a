@@ -13,3 +13,7 @@ project: CS61A
 - Instructions for Berkley scheme installation: [https://inst.eecs.berkeley.edu/~scheme/precompiled/MS-Windows/](https://inst.eecs.berkeley.edu/~scheme/precompiled/MS-Windows/)
 - Installing Berkeley Stk scheme dialect on ubuntu: [https://stackoverflow.com/questions/40092625/installing-the-stk-scheme-interpreter-on-ubuntu-mate](https://stackoverflow.com/questions/40092625/installing-the-stk-scheme-interpreter-on-ubuntu-mate)
 - https://github.com/alebricio/cs61a
+- Class homepage: https://inst.eecs.berkeley.edu//~cs61a/sp11/
+- Get lecture programs here: https://github.com/zackads/sicp/tree/main/lectures
+- Video lectures in order: https://archive.org/details/ucberkeley_webcast_itunesu_438297790/01.+2011-01-19+-+Lecture+1%3A+functional+programming+1.mp4
+- Another awesome resource: https://github.com/zackads/sicp/tree/main?tab=readme-ov-file
