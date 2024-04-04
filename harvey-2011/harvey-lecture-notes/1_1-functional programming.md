@@ -1,0 +1,18 @@
+- week 1, lecture 1
+# Scheme
+- Notation
+	- Infix, prefix, postfix, "all around"
+- +, -, x, etc., are functions
+- Parenthesis, function, arg, arg, ...., closed parenthesis
+- First evaluates argument expressions, the call the function with the argument expressions.
+- text functions
+	- (first 'last) --> l
+	- (butfirst 'last) or (bf 'last) --> ast
+	- butlast (bl)
+	- (word 'now 'here)  --> nowhere
+	- (sentence 'now here')  --> (now here)
+- define variable (define pi 3.14159)
+- define procedure (define (square x) (* x x))
+- Special Forms
+	- _define_ is a special form (it doesn't 'first evaluate the arguments')
+	- There are about a dozen special forms
